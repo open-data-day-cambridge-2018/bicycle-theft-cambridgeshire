@@ -1,0 +1,13 @@
+Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Outcome type
+d00e7ca4f5a0f5143979ac49ae3c5b5271212ddf5254cb68d0fab2e6513f445c,2017-10,City of London Police,City of London Police,-0.109155,51.516668,On or near FETTER LANE,E01032740,City of London 001G,Offender otherwise dealt with
+d917c0dc0e6ef26e0abde3add10024f0d489cbcc21e7403d73e34a3af7e13cee,2017-10,City of London Police,City of London Police,-0.109155,51.516668,On or near FETTER LANE,E01032740,City of London 001G,Offender fined
+e1b52b9cb8dc54cd7911bbf30fe6c02f783a2c847e97fa762ab60f9236a4b581,2017-10,City of London Police,City of London Police,-0.085355,51.510563,On or near PUDDING LANE,E01032739,City of London 001F,Offender sent to prison
+eda6a8a87bf0d324020533cf684c489de3d9f1bf61744e80ea048f69f98d206c,2017-10,City of London Police,City of London Police,-0.091084,51.513830,On or near OLD JEWRY,E01032739,City of London 001F,Offender given conditional discharge
+44e8ed8547b2698aa2a5f89ce100fc0cbff83850c7ac12e6ea582eb60b3a9a54,2017-10,City of London Police,City of London Police,-0.079786,51.517576,On or near Police Station,E01032739,City of London 001F,Offender given suspended prison sentence
+dea6aa086c969f64f849895ba4a1a0a605ee8419786968ac8e334385fed3b4d5,2017-10,City of London Police,City of London Police,-0.083972,51.510549,On or near LOVAT LANE,E01032739,City of London 001F,Offender given conditional discharge
+3c2c34af32c05141f9974ee61e9a72a7b2b348b723c11293392a642d89607d1d,2017-10,City of London Police,City of London Police,-0.097562,51.518864,On or near Parking Area,E01000001,City of London 001A,Offender sent to prison
+9a40ed6338cd1c1dcb6e0492a235bcfb593bdaa8cec858c9527ce97cd7b0de4f,2017-10,City of London Police,City of London Police,-0.082571,51.514753,On or near GREAT ST HELEN'S,E01032739,City of London 001F,Offender fined
+82db75a81b164d42bc5207903096d34526ee0336b764162c329a693f0c292940,2017-10,City of London Police,City of London Police,-0.085310,51.518511,On or near ELDON STREET,E01032739,City of London 001F,Offender given conditional discharge
+7516a231ecd2b66db1655804c9c0aff3bbe22323768a76c2116da06b5ffb1c94,2017-10,City of London Police,City of London Police,-0.076853,51.511916,On or near Nightclub,E01032739,City of London 001F,Offender ordered to pay compensation
+803ee3c680d4dfd4725139d7055391453667523341088c3b3122e50910e81084,2017-10,City of London Police,City of London Police,-0.082571,51.514753,On or near GREAT ST HELEN'S,E01032739,City of London 001F,Offender fined
+da35e9c4916fe769393d89d437186eb4f34c7814848255907b8dd72947855e6e,2017-10,City of London Police,City of London Police,,,No location,,,Offender sent to prison
