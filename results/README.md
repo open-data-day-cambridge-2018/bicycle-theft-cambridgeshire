@@ -5,4 +5,5 @@ Static shots of the visualisations rendered in the notebooks for easy consumptio
 
 ![zoomed in map](theftmap.png)
 ![zoomed out map](theftmap-zoomed-out.png)
+![theft frequency plot](theft-frequency-barplot.png)
 
