@@ -5,3 +5,5 @@ Analysing bike theft in Cambridgeshire based on open Police Data 2017 - contains
 Run the notebooks yourself:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/open-data-day-cambridge-2018/bicycle-theft-cambridgeshire/master)
+
+[!map of thefts around cambridge](results/theftmap.png)
